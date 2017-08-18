@@ -9,4 +9,4 @@ Thanks for stopping by! I am a graudate student at the University of Michigan an
 
 Say hello at ameyapj at umich dot edu.
 
-![At the useum of Modern Art in Munich]({{site.url}}\Image\DSC_4882.png)
+![At the useum of Modern Art in Munich]({{site.url}}\Images\DSC_4882.png)
