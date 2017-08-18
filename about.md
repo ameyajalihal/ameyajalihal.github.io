@@ -1,12 +1,10 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: Microscopist. Molecular Biologist. 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Thanks for stopping by! I am a graudate student at the University of Michigan and I spend my time thinking about science communication, representation in STEM and how really, really tiny things move.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Say hello at a m e y a p j AT u m i c h . e d u
