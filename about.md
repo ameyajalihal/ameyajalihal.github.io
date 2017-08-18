@@ -5,7 +5,7 @@ subtitle: Microscopist. Molecular Biologist.
 permalink: /about/
 ---
 
-Thanks for stopping by! I am a graudate student at the University of Michigan and I spend my time thinking about science communication, representation in STEM and how really, really tiny things move.
+Thanks for stopping by! I am a graduate student at the University of Michigan and I spend my time thinking about science communication, representation in STEM and how really, really tiny things move.
 
 I was at the Pinakothek der Moderne with @amoghpj in July 2017. Here is a picture. 
 
