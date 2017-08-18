@@ -7,3 +7,6 @@ categories: [Thoughts]
 ---
 
 I am really motivated to work on this website! Let us see how far I get this Fall. 
+
+Here are some cells, chillin' with their cytosolic GFP foci. For your viewing pleasure.
+![Photo nam]({{site.url}}/Images/GFP_in_U2OS-3.png)
