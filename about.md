@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ameya Jalihal
-subtitle:  
+subtitle: अमेय जालीहाळ / ಅಮೇಯ ಜಾಲೀಹಾಳ
 permalink: /about/
 ---
 
