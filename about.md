@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle: अमेय जालीहाळ | ಅಮೇಯ ಜಾಲೀಹಾಳ | /əmeɪjʌ/ /'dʒɑlihɑl/
-permalink: /about/
+permalink: /
 ---
 
 <img align="right" width="300" height="300" src="/Images/trdlnik_cropped.png">
