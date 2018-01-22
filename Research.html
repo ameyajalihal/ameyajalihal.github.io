@@ -2,15 +2,6 @@
 layout: page
 title: Research
 ---
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.research %}
-            <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
-</section>
+I am broadly interested in studying mechanisms of spatio-temporal regulation in organisms, occuring at the cellular and molecular level. For my graduate work I am focusing on learning about single molecule fluorescence tools and applying them to understand eukaryotic gene regulation. 
+
+I routinely use tools of molecular biology, microscopy, quantitative image analysis and modeling for my work. I primarily write code in Matlab.
