@@ -6,4 +6,4 @@ I am broadly interested in studying how properties of biological systems (molecu
 
 I routinely use tools of molecular biology, microscopy, quantitative image analysis and modeling for my work. I primarily write code in Matlab and I hope to share some of my scripts on my git soon.
 
-In the past, I have had the wonderful oppurtunity to work with many wonderful scientists. The research experiences I had during my time in [Dr. Christian Ray's](http://jcjray.com/) and [Dr. Kavita Babu's](http://www.babulab.org/home) labs have had particularly strong influences on my thought process. 
+In the past, I have been fortunate to have been able to work with many amazing mentors and scientists. The research experiences I had during my time in [Dr. Christian Ray's](http://jcjray.com/) and [Dr. Kavita Babu's](http://www.babulab.org/home) labs have had particularly strong influences on my thought process. 
