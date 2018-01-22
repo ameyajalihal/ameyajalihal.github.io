@@ -11,4 +11,4 @@ Outside that lab, Ameya enjoys coffee and classical Indian music (like a true Ch
 
 Say hello at ameyapj at umich dot edu.
 
-<img align="left" width="1536" height="2304" src="/Images/Trdlnik.jpg">
+<img align="left" width="307" height="461" src="/Images/Trdlnik.jpg">
