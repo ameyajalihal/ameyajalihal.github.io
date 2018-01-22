@@ -4,7 +4,10 @@ title: Ameya Jalihal
 subtitle:  
 permalink: /about/
 ---
+
 <img align="left" width="279" height="419" src="/Images/Trdlnik.jpg">
+
+
 
 Welcome! Ameya is a third year Cell and Molecular Biology graduate student at the University of Michigan. Under the mentorship of Dr. Nils Walter, Ameya is using single-molecule fluoescence microscopy tools to study the mechanisms and kinetics of protein translation in cultured cells.
 
