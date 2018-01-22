@@ -9,9 +9,7 @@ Welcome! Ameya is third year Cell and Molecular biology graduate student at the 
 
 Outside that lab, Ameya enjoys coffee and classical Indian music (like a true Chennai native), cooking and being outdoors.
 
-Say hello at ameyapj at umich dot edu.
 
-I was at the Pinakothek der Moderne with @amoghpj in July 2017. Here is a picture. 
+![ameyapj at umich dot edu](/Images/Trdlnik_Ameya.png)
 
-![At the museum of Modern Art in Munich](/Images/DSC_4882.png)
 
