@@ -10,6 +10,6 @@ Welcome! Ameya is third year Cell and Molecular biology graduate student at the 
 Outside that lab, Ameya enjoys coffee and classical Indian music (like a true Chennai native), cooking and being outdoors.
 
 
-![ameyapj at umich dot edu](/Images/Trdlnik_Ameya.png)
+![ameyapj at umich dot edu](/Images/Trdlnik_Ameya.jpg)
 
 
