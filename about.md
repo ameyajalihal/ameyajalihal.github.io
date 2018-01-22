@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ameya Jalihal
-subtitle: अमेय जालीहाळ / ಅಮೇಯ ಜಾಲೀಹಾಳ
+title: 
+subtitle: अमेय जालीहाळ | ಅಮೇಯ ಜಾಲೀಹಾಳ | /əmeɪjʌ/ /'dʒɑlihɑl/
 permalink: /about/
 ---
 
