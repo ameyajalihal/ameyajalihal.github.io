@@ -5,7 +5,7 @@ subtitle:
 permalink: /about/
 ---
 
-<img align="left" width="279" height="419" src="/Images/Trdlnik.jpg">
+<img align="left" width="204" height="307" src="/Images/Trdlnik.jpg">
 
 
 
