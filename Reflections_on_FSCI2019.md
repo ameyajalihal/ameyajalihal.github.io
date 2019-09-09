@@ -2,7 +2,7 @@
 layout: post
 title: What I learned about the future of scientific communication at FSCI2019
 category: Blog
-permalink: /Blog/Reflections_on_FSCI2019/
+permalink: /Reflections_on_FSCI2019/
 ---
 # **1. FSCI 2019**
 
