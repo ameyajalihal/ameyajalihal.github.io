@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What I learned about the future of scientific communication at FSCI2019
+category: Blog
 ---
 
 # **What I learned about the future of scientific communication at FSCI2019**
