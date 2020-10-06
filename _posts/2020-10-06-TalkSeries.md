@@ -17,7 +17,7 @@ Here is a short list of series that I try to attend.
 
 4. CMB's exciting Fall short course on imaging techniques. [Flyer](https://github.com/ameyajalihal/ameyajalihal.github.io/tree/master/assets/Fall2020CMB630Flyer.pdf).
 
-5. The sturday morning [Proteinopathy talks](https://rams.biop.lsa.umich.edu/symposium_1).
+5. The saturday morning [Proteinopathy talks](https://rams.biop.lsa.umich.edu/symposium_1).
 
 6. I thoroughly enjoyed listening to the [POBAM talks](https://easychair.org/cfp/POBAM2020) over the summer. Will be on the look out for more in this series.
 
