@@ -1,6 +1,6 @@
 ---
 layout: post
-title: F2020: Series and conferences
+title: F2020 - Series and conferences
 category: [blog]
 ---
 # Lots of talks these days.
