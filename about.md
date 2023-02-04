@@ -13,4 +13,4 @@ I was previously a Cell and Molecular Biology graduate student at the University
 
 Outside the lab, I enjoys coffee and classical Indian music (like a true Chennai native), cooking, being outdoors and thinking about representation and identity.
 
-Say hello at ameya at unc dot edu.
+Say hello at ajalihal at unc dot edu.
