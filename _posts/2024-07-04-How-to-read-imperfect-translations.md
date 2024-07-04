@@ -238,6 +238,6 @@ If nothing else, the act of reading becomes its own reward.
 
 I leave this as an exercise for you reader. Use the definitions in 4 of karma and 7 of akarma to retranslate the first line in shloka 4:18.
 
-_कर्मण्यकर्म य: पश्येदकर्मणि च कर्म य: |_
+_कर्मण्यकर्म य: पश्येदकर्मणि च कर्म य:_
 
 Start with this nonsensical translation _“Those who see action [karma] in inaction [akarma] and inaction [akarma] in action [karma]... are truly wise amongst humans.”_
