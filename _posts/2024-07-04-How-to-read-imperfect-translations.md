@@ -30,9 +30,9 @@ _What is action and what is inaction?_
 
 Perhaps I’m wiser than whoever the Gītā is talking about here. but perhaps that’s getting too indulgent. My next instinct is to question my comprehension of this translation. I go back to see if I am forgetting context. I scramble ahead to make sure I am not jumping the gun. But this is all the translator has to offer. And it makes no sense. Action and inaction.
 
-What’s going on here? On the face of it, _karma_ and _akarma_ do indeed mean “action” and “inaction”. I would have translated these the same way. But what do I know about the _Gītā_. I needed a better translation to know what about these words is “confusing”. And so began a quest to find this fuller sense of _karma_ and _akarma_.
+What’s going on here? On the face of it, _karma_ and _akarma_ do indeed mean “action” and “inaction”. I would have translated these the same way. But what do I know about the _Gītā_. I needed a better translation to know what about these words is “confusing”. And so begins a quest to find this fuller sense of _karma_ and _akarma_.
 
-The following is a little account of how I navigated this search. It is a travelogue that describes a journey through multiple translations, commentaries, dictionaries, and finally works outside the _Gītā_ (Parts 2-7). I arrive at a new translation in 8. But the journey proves fruitful in more than one way. I explain in 9 and reflect in 10. And what gets us started on this journey is one incongruity in a single translation of a single shloka.
+The following is a little account of how I navigated this search. It is a travelogue that describes a journey through multiple translations, commentaries, dictionaries, and finally works outside the _Gītā_ (Parts 2-7). I arrive at a new translation in 8. But the journey proves fruitful in more than one way. I explain this in 9 and reflect in 10. And what gets us started on this journey is one incongruity in a single translation of a single shloka.
 
 # 2
 
