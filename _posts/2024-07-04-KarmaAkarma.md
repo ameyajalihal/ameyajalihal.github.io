@@ -1,3 +1,9 @@
+---
+layout: post
+title: How to read imperfect translations
+category: [blog]
+---
+
 # 0
 
 How do you start reading the _Bhagavad Gītā_, a supposedly accessible text? How do you read it if you don’t know enough Sanskrit to read the original? You will probably start with one of many, many translations. This works well at the start. The translation draws you in. But at some point, it stops making sense. And then suddenly you are left stranded.
