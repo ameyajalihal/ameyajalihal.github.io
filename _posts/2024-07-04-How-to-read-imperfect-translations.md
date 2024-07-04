@@ -40,9 +40,9 @@ First step, let’s see if we can simply find a better English translation of 4:
 
 _“What is action and what is inaction?”_
 
--_holybhagavadgita.org_
+-holybhagavadgita.org
 
-**_“Even the intelligent are bewildered in determining what is action and what is inaction.”_**
+_“Even the intelligent are bewildered in determining what is action and what is inaction.”_
 
 -vedabase.io
 
@@ -84,13 +84,13 @@ That’s not helpful.
 
 But! I noticed a second usage, in _Vyākarana_, of _akarma_:
 
-(In grammar.) Having no direct object, intransitive (as a verb)_._
+_(In grammar.) Having no direct object, intransitive (as a verb)._
 
 And _karma_ means the opposite: “to have a direct object, a transitive verb”.
 
 Now this is surprisingly close to the word’s usage in _Vedānta_, where the definition involves both action and its “object”:
 
-"_Karma (कर्म) refers to “action”, “deed”. 1) any action or deed; 2) the principle of cause and effect; 3) a consequence or “fruit of action” (_karmaphala_) or “after effect” (_uttaraphala_), which sooner or later returns upon the doer. What we sow, we shall reap in this or future lives. Selfish, hateful acts (_pāpakarma_ or _kukarma_) will bring suffering. Benevolent actions (_pu__ṇ__ya-karma_ or _sukarma_) will bring loving reaction._"
+"_Karma (कर्म) refers to “action”, “deed”. 1) any action or deed; 2) the principle of cause and effect; 3) a consequence or “fruit of action” (_karmaphala_) or “after effect” (_uttaraphala_), which sooner or later returns upon the doer. What we sow, we shall reap in this or future lives. Selfish, hateful acts (_pāpakarma_ or _kukarma_) will bring suffering. Benevolent actions (_puṇya-karma_ or _sukarma_) will bring loving reaction._"
 
 -wisdomlib.org/definition/karma
 
@@ -100,8 +100,8 @@ It looks like we are finally making some progress. What we’ve been missing is 
 
 We have a picture that is starting to emerge. Some definitions of _karma_ we can distill from this Vedantic sense of the word are:
 
- 1. _karma_ can be any action that is done _with an object in mind_,
- 2. _karma_ _is the fruit that some action accrues_
+ i. _karma_ can be any action that is done _with an object in mind_,
+ ii. _karma_ _is the fruit that some action accrues_
 
 To this I am going to add another definition. One common usage of _karma_ is a Vedic ritual, that we know from injunctions like:
 
@@ -111,7 +111,7 @@ _स्वर्गकामो ज्योतिष्टोमेन यज�
 
 Here, jyotishhToma is the name of a _karma_ and falls in a category of action that is similar to (i) above, except it involves a ritual act, not just a pedestrian one. It is carried out with an object in mind (_swarga_), it comes with the promise that the desired object will accrue to the doer. But because the _Vēda_ is privileged, and Vedic rituals are special, we can add a third aspect of _karma_ as
 
-3. _karma_ is a _Vedic ritual action that can yield a specific fruit_.
+iii. _karma_ is a _Vedic ritual action that can yield a specific fruit_.
 
 To be even more explicit, we have now added two more senses to the word karma beyond just action. A _karma_ is an **action in pursuit of a fruit,** **and also the fruit of that action**.
 
@@ -123,9 +123,9 @@ What then is _akarma_, if not merely inaction? Who is _akarta_, if not the non-d
 
 Let’s jump to an earlier shloka to understand _akarta_ and _akarma_. In 4:13, Krshna says to Arjuna
 
-_चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागश: |_
+_चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागश:_
 
-_तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ||_
+_तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम्_
 
 It is translated by Swami Mukundananda as
 
@@ -135,7 +135,7 @@ Krshna claims to be both _karta_ and _akarta_. This is translated as _I am both 
 
 The first line, however, of 4:13,
 
-_The four ... [Varnas] were **created [srshtam]** by Me..._
+"_The four ... [Varnas] were **created [srshtam]** by Me..._"
 
 immediately rang a bell, calling to mind the _Purusha Sūkta_, in which also there is a description of the origin of the four _Varna-s_ arising out of the cosmic being _Purusha_. What does this connection mean for our problem at hand?
 
@@ -161,9 +161,9 @@ _From his mind was born Chandrama, from his eyes appeared Surya, from his mouth 
 
 Which on the face of it sounds like a description of the _srshti,_ “creation” of the four _Varnas_ that Krshna mentions in 4:13. So far so good.
 
-Calling the _Purusha Sukta_ a creation story, however, betrays miscomprehension, in a way that is critical to the point I am now about to make. While the _Purusha Sukta_ describes the origin of the world and things in the world, it does not actually describe their origin as a singular act of creation, either ex nihilo, as in the story of creation in Genesis, or otherwise. Because creation would be an _act._ And an _act_ sounds an awful lot like _karma._ What we do know is that the world is perpetually arising out of and falling back into _Brahman_, the _Purusha_. That is its nature. If not an act of creation, what then is _Purusha Sukta_ about?
+Calling the _Purusha Sukta_ a creation story, however, betrays miscomprehension, in a way that is critical to the point I am now about to make. While the _Purusha Sukta_ describes the origin of the world and things in the world, it does not actually describe their origin as a singular act of creation, either ex nihilo, as in the story of creation in Genesis, or otherwise. Because creation would be an _act._ And an _act_ sounds an awful lot like _karma._ What we do know is that the world is perpetually arising out of and falling back into _Brahman_, the _Purusha_. That is its nature. If not an act of creation, what then is _Purusha Sūkta_ about?
 
-The _Purusha Sūkta_ is in fact a description of an act. It is a description of a _Pashubandha Yajnya_, in which the _Purusha_ is a primary participant, as both the sacred fire and as the _Pashu_. It is from this _Yajnya_ are born various animals, the _Vēdas_, _Chhandas_, _Yajnya_ itself ... but then _Sūrya_, _Chandra_, etc. and the four Varnas, are described as being parts of the Purusha itself. They are the organs themselves, or they are “born of it”, or “appear from it” depending on how you translate _ajāyata_. What’s most pertinent to us is that there doesn’t seem to be an active creator shaping these things that emanate from the _Purusha_. Rather, they passively appear as facets, manifestations, perhaps even transformations of the _Purusha_ itself.
+It is in fact a description of another act. It is a description of a _Pashubandha Yajnya_, in which the _Purusha_ is a primary participant, as both the sacred fire and as the _Pashu_. It is from this _Yajnya_ are born various animals, the _Vēdas_, _Chhandas_, _Yajnya_ itself ... but then _Sūrya_, _Chandra_, etc. and the four Varnas, are described as being parts of the Purusha itself. They are the organs themselves, or they are “born of it”, or “appear from it” depending on how you translate _ajāyata_. What’s most pertinent to us is that there doesn’t seem to be an active creator shaping these things that emanate from the _Purusha_. Rather, they passively appear as facets, manifestations, perhaps even transformations of the _Purusha_ itself.
 
 Let’s break this down further. What is the act that is being described, what is the result of the action and who is the doer in the _Purusha_ _Sūkta_? What is the relationship between the action, the doer and the fruits of action?
 
@@ -173,7 +173,7 @@ Let’s break this down further. What is the act that is being described, what i
 
 But there is no such evidence of fruit-seeking or accrual in the _Purusha Sukta._ Once again, it is in _Brahman’s_ nature to manifest and then withdraw the world, but this is so without a sense of active agency or intention, or of accruing the _karma_ of “creation”, whatever that may be.  This non-desire and non-accrual of the _Purusha_ is also explicit in the very next _shloka_ in the _Gīta_. In 4:14 Krshna says to Arjuna
 
-न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा |
+_न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा_
 
 “Activities [sic] **_do not taint Me_**, **_nor do I desire_** the fruits of action.”
 
@@ -181,7 +181,7 @@ Thus Krshna as the _Purusha_ must become another kind of _karta._ And he uses a 
 
 # 7
 
-So the _akarta_ (commonly translated as non-doer), is this sense is an **doer**-**who does not-pursue**/**accrue**. It follows that _akarma_ in this sense is not merely **inaction**, but an act **with no object in mind**, and the consequent **non-accrual of the fruit**. But this does not, crucially, mean there are no outcomes of an act that is _akarma_! The _Yajnya_ in the _Purusha Sukta_ demonstrates this in the most extravagant way. It is just that in _akarma_ that there isn’t a pursuit of a desired object.
+So the _akarta_ (commonly translated as non-doer), in this sense is an **doer**-**who does not-pursue**/**accrue**. It follows that _akarma_ in this sense is not merely **inaction**, but an act **with no object in mind**, and the consequent **non-accrual of the fruit**. But this does not, crucially, mean there are no outcomes of an act that is _akarma_! The _Yajnya_ in the _Purusha Sukta_ demonstrates this in the most extravagant way. It is just that in _akarma_ that there isn’t a pursuit of a desired object.
 
 Here are the definitions:
 
@@ -193,7 +193,7 @@ Akarta – **nondoer**, but also **detached**  **doer** to **whom actions don’
 
 So we have four new definitions, and I can now propose a new translation of 4.16
 
-_किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिता:_ _|_
+_किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिता:_
 
 _“**An action** becomes karma by **the** **fruit the doer pursues**, and **accrues**. What indeed is such action, and what then is action that is not oriented this way, akarma? This confuses even the wise.”_
 
@@ -205,26 +205,26 @@ This makes more sense to me. How our actions are causally connected to the outco
 
 # 9
 
-What have we learned? We started with a naïve, literal translation of _karma_ and _akarma_ as action and inaction. We saw that this made a shloka sound nonsensical. That set us on a quest to make sense of it, by looking for a better translation of these ideas. We set out to draw a roadmap to navigate difficult-to-translate concepts using poor translations, we ended up going outwards
+What have we learned? We started with a naïve, literal translation of _karma_ and _akarma_ as action and inaction. We saw that this made a _shloka_ sound nonsensical. That set us on a quest to make sense of it, by looking for a better translation of these ideas. We set out to draw a roadmap to navigate difficult-to-translate concepts using poor translations, we ended up going outwards
 
-literal translation ->  bhashyas Þ dictionaries Þ cross referencing other works
+literal translation ->  bhashyas -> dictionaries -> cross referencing other works
 
 A little back and forth, and some research into what a _yajnya_ is helped along the way. And at the end we now have a more complete understanding of some important words in the _Bhagavad Gītā_.
 
-But more importantly I think in the process we’ve discovered that this sort of systematic exploration in fact helps with difficult concepts in general, irrespective of how easy they are to translate. It is just that in this instance the incongruity of the translation helped get us started. The moral is this: watch out for those over-glib koans! But keep thinking about why they are phrased the way they are.
+Of course, this sort of systematic exploration helps with difficult concepts in general, irrespective of how easy they are to translate. It is just that in this instance the incongruity of the translation helped get us started. The moral is this: watch out for those over-glib koans! But keep thinking about why they are phrased the way they are.
 
-Finally, a careful reading can be enriching in more than one way. With just four new definitions, we now have a new lens to think about texts as far afield as the _Purusha Sukta,_ a text  people seem to think they understand completely. Not only does our new toolkit easily overturn common and persistent problems with how people understand the _Purusha Sukta_ (as a creation myth, for example) but reveals how tightly interwoven the Mahabharata and the Vedas are. Thinking about just a couple of _shlokas_ in the _Gita_ has carried us beyond the context of the _Kurukshtra_ war into the territory of _Vedanta_.
+Finally, a careful reading can be enriching in more than one way. With just four new definitions, we now have a new lens to think about texts as far afield as the _Purusha Sūkta_,_ a text  people seem to think they understand completely. Not only does our new toolkit easily overturn common and persistent problems with how people understand the _Purusha _Sūkta_ (as a creation myth, for example) but reveals how tightly interwoven the Mahabharata and the Vedas are. Thinking about just a couple of _shlokas_ in the _Gita_ has carried us beyond the context of the _Kurukshtra_ war into the territory of _Vedanta_.
 
 # 10
 
-Reflection on translating:
+Reflections on translating:
 
  1. Some misunderstandings are pervasive and deep-rooted, but mostly because of persistent and bad translations. It isn’t very difficult to pull ourselves out of them once we know the source of the problem.
  2. How do we know the source of the problem is the translation? This is the hard part. It is probably best to remain cautious of any translation. There are no deep meanings in Sanskrit that are inherently incomprehensible, inarticulable or untranslatable. We must believe this if we are to pursue any understanding. There may not exist perfect translations, but maybe a couple of imperfect ones will work just as well. Stay curious about the original Sanskrit.
- 3. So this means translations are essential, unless you already know Sanskrit. And even if you do, the act of translation can open you up to new shades of meaning. Don’t settle for a received translation. But if you find yourself resorting to a Sanskrit word because you find it untranslatable. It probably means you don’t understand it adequately. Keep pushing past the imperfect translations.
+ 3. So this means translations are essential, unless you already know Sanskrit. And even if you do, the act of translation can open you up to new shades of meaning. Don’t settle for a received translation. But if you find yourself resorting to a Sanskrit word because you find it untranslatable, it probably means you don’t understand it adequately. Keep pushing past the imperfect translations.
  4. Texts are replete with intentionally phrased contradictions that clearly have some didactic or illustrative role. But they can only serve their role if the apparent or real contradiction is comprehensible. There are useful contradictions, and less useful ones. We started with the apparent contradiction (action-vs-inaction) but found it opaque. We were able to work through it and with a new translation arrived at a new contradiction (causes that lead to effects and those that are devoid of/free of them). This is more interesting. But this is the value of a poor translation, it is sets us on a journey.
 
-Reflection on reading:
+Reflections on reading:
 
 It is exceedingly treacherous to bring different texts together especially when you don’t even understand them individually. This is doubly so if you are dealing with the Vedas which, in opposition to the _Bhagavad Gītā_, bear the reputation of being incomprehensible. But I would argue it isn’t any more treacherous than reading any single text, such as the _Gītā_, aided only by poor translations. Since the latter is the task that got us started all of this with, I obviously think the effort of the former, of reading the _Vedas_ alongside the _Puranas_ is also worthwhile: after all, Vedantic ideas that animate the _Puranas_ are sourced in the Vedas themselves.
 
