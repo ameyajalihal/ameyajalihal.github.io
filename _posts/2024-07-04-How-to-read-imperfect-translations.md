@@ -10,9 +10,9 @@ How do you start reading the _Bhagavad Gītā_, a supposedly accessible text? Ho
 
 This is how it happened to me. I had been working through Swami Mukundananda’s translation online, which I mostly picked because it is an easy website to navigate. Things were going alright, barring the occasional hiccup, until I got to the fourth _adhyāya_. Here is _shloka_ 4:16 where it happened.
 
-_किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिता:_ _|_
+_किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिता:_ |
 
-_तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् || 16||_
+_तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात्_ ||16||
 
 Which Swami Mukundananda translates as
 
